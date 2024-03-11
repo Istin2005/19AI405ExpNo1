@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: ISTIN B</h3>
+<h3>Register Number:212223040068</h3>
 
 
 <h3>AIM:</h3>
@@ -42,10 +42,6 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 ## Developing AI Agent with PEAS Description
-
-#### Developed by : ISTIN B
-
-#### RegisterNumber : 21223040068
 
 <h3>PROGRAM:</h3>
 
